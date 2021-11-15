@@ -1,0 +1,64 @@
+Index,type,message
+1,spam,"""Free- C o u p o n s   f o r   n e x t   m o v i e .   Th e   a b o v e   l i n k s   w i l l   t a k e   y o u   
+s t r a i g h t   t o   o u r   p a r t n e r ' s   s i t e .   F o r   m o r e   i n f o r m a t i o n   o r   t o   
+s e e   o t h e r   o f f e r s   a v a i l a b l e ,   y o u   c a n   a l s o   v i s i t   t h e   Groupon   
+o n   t h e   W o r k i n g   A d v a n t a g e   w e b s i t e . """
+2,spam,"""Free- C o u p o n s   f o r   n e x t   m o v i e .   Th e   a b o v e   l i n k s   w i l l   t a k e   y o u   
+s t r a i g h t   t o   o u r   p a r t n e r ' s   s i t e .   F o r   m o r e   i n f o r m a t i o n   o r   t o   
+s e e   o t h e r   o f f e r s   a v a i l a b l e ,   y o u   c a n   a l s o   v i s i t   t h e   Groupon   
+o n   t h e   W o r k i n g   A d v a n t a g e   w e b s i t e . """
+3,spam,"Our records indicate your Pension is under performing to see higher 
+growth and up to 25% cash release reply PENSION for a free review. 
+To opt out reply STOP"
+4,spam,"Enter to win $25,000 and get a Free Hotel Night! Just 
+click here for a $1 trial membership in NetMarket, the 
+Internet'spremier discount shopping site: 
+  
+ 
+Fast Company EZVenture gives you FREE business 
+articles,PLUS, you could win YOUR CHOICE of a BMW Z3 
+convertible, $100,000, shares of Microsoft stock, or a 
+home office computer. Go there and get your chances to 
+win now. 
+A crazy-funny-cool trivia book with a $10,000 prize? 
+PLUS chocolate, nail polish, cats, barnyard animals, 
+and more?"
+5,spam,"Dear recipient, 
+Avangar Technologies announces the beginning of a new 
+unprecendented global employment campaign.  
+Due to company's exploding growth Avangar is expanding 
+business to the European region. 
+During last employment campaign over 1500 people worldwide 
+took part in Avangar's business 
+and more than half of them are currently employed by the 
+company. And now we are offering you 
+one more opportunity to earn extra money working with Avangar 
+Technologies. 
+ 
+We are looking for honest, responsible, hard-working people that 
+can dedicate 2-4 hours of their 
+time per day and earn extra Â£300-500 weekly. All offered 
+positions are currently part-time 
+and give you a chance to work mainly from home"
+6,spam,"I know that's an incredible statement, but bear with me 
+while I explain. You have already deleted mail from 
+dozens of ""Get Rich Quick"" schemes, chain letter 
+offers, and LOTS of other absurd scams that promise to 
+make you rich overnight with no investment and no work. 
+ 
+My offer isn't one of those. What I'm offering is a  
+straightforward computer-based service that you can run 
+full-or part-time like a regular business. This service 
+runs auto-matically while you sleep, vacation, or work 
+a ""regular"" job. It provides a valuable new service for 
+businesses in your area. 
+ 
+I'm offering a high-tech, low-maintenance, work-from-
+anywhere business that can bring in a nice comfortable 
+additional income for your family. I did it for eight 
+years. Since I started inviting others to join me, I've 
+helped over 4000 do the same."
+7,ham,"The problem here is that your y_train vector, for whatever reason, only has zeros. It is actually not your fault, and its kind of a bug ( I think ). The classifier needs 2 classes or else it throws this error."
+8,ham,"In my opinion the classifier should still complete and just predict the one class ( all zeros in this case ) and then throw a warning, but it doesn't. It throws the error in stead."
+9,ham,TF-IDF Vectorizer creates Tf-IDF values for every word in our text messages. Tf-IDF values are computed in a manner that gives a higher value to words appearing less frequently so that words appearing many times due to English syntax don’t overshadow the less frequent yet more meaningful and interesting terms.
+10,ham,"We fit our Naïve Bayes model, aka MultinomialNB, to our Tf-IDF vector version of x_train, and the true output labels stored in y_train."

@@ -1,0 +1,5 @@
+,,
+,ham,"In Machine Learning, we usually split our data into two subsets — train and test. We feed the train set along with the known output values for it (in this case, 0 or 1 corresponding to spam or ham) to our model so that it learns the patterns in our data. Then we use the test set to get the model’s predicted labels on this subset. Let’s see how to split our data."
+,ham,"Our Naïve Bayes model requires data to be in either Tf-IDF vectors or word vector count. The latter is achieved using Count Vectorizer, but we’ll obtain the former through using Tf-IDF Vectorizer."
+,spam,Hello please click on the link below to visit our website. Get free money an invest in pension fund. We also have opportunity for extra chance of investment'
+,spam,Free coupons for next movie. The above link will take you to our site. For other options please click the link below.
